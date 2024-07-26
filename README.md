@@ -1,10 +1,13 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)]()
+![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 
 <h1 align="center">Hi there 👋, I'm Maisha</h1>
 <h3 align="center">I'm a passionate Computer Scientist from Bangladesh, living in USA.</h3>
-<img align="right" alt="Coding" height="600" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" height="600" width="400" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbmoin&label=Profile%20views&color=0e75b6&style=flat" alt="mbmoin" /> </p>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mbmoin&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)" alt="mbmoin" /> </p>
+
+
+
 
 - 🔭 I’m currently working on **Cool projects** exploring advanced machine learning models and their applications in NLP and data science.
 
